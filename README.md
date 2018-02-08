@@ -10,8 +10,11 @@ Explored univariate, bivariate and multivariate relationship between 11 variable
 
 Follow the steps below to view the R code.
 
+
 STEP 1: Clone or Download (Green Button on TOP LEFT CORNER)
+
 STEP 2: Unzip the downloaded .zip file.
+
 STEP 3: Open with R-Studio
 
 or
