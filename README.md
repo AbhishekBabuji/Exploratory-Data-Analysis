@@ -9,8 +9,10 @@ Explored univariate, bivariate and multivariate relationship between 11 variable
 ### Red Wines - EDA.Rmd
 
 Follow the steps below to view the R code.
+
 STEP 1: Clone or Download (Green Button on TOP LEFT CORNER)
-STEP 2: Open with R-Studio
+STEP 2: Unzip the downloaded .zip file.
+STEP 3: Open with R-Studio
 
 or
 
@@ -18,7 +20,8 @@ or
 
 Follow these steps below to view a report without the R code.
 STEP 1: Clone or Download (Green Button on TOP LEFT CORNER)
-STEP 2: Open with Google Chrome or any browser.
+STEP 2: Unzip the downloaded .zip file.
+STEP 3: Open with Google Chrome or any browser.
 
 
 ## Project 2: Titanic
@@ -31,5 +34,6 @@ Created a report to communicate the findings from the Titanic dataset which cont
 
 Follow these steps below to view a report with the Python code
 STEP 1: Clone or Download (Green Button on TOP LEFT CORNER)
-STEP 2: Open with Google Chrome or any browser.
+STEP 2: Unzip the downloaded .zip file.
+STEP 3: Open with Google Chrome or any browser.
 
